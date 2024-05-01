@@ -1,5 +1,5 @@
 
-# Design Pattenns
+# Design Patterns
 
 This is about desing patterns using Java. The idea is to have a collection of the uses of each pattern and try to learn how to implement them.
 
