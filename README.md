@@ -18,6 +18,10 @@ So if you are learning design patterns with Java feel free to fork this repo.
 - Builder
 
 - Singleton
+  
+- Prototype
+  
+
 
 
 ## FAQ
