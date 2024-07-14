@@ -1,9 +1,9 @@
 
 # Design Patterns
 
-This is about desing patterns using Java. The idea is to have a collection of the uses of each pattern and try to learn how to implement them.
+This is about design patterns using Java. The idea is to have a collection of the uses of each pattern and try to learn how to implement them.
 
-So if you are learning design patterns with Java feel free to fork this repo.
+So if you are new to this topic and want learning design patterns with Java feel free to fork this repo.
 
 
 
@@ -21,6 +21,8 @@ So if you are learning design patterns with Java feel free to fork this repo.
   
 - Prototype
   
+- Factory Method
+  
 
 
 
@@ -28,7 +30,7 @@ So if you are learning design patterns with Java feel free to fork this repo.
 
 #### Why is missing some design patterns? 
 
-The Design patterns is a collection of solutions on how solve specific problems on the real world. Gang of Four (GoF) was responsible to write aobut 23 classical design patterns.
+The Design patterns is a collection of solutions on how solve specific problems on the real world. Gang of Four (GoF) was responsible to write about 23 classical design patterns.
 
 Today we have more like: Null Object, Object pool and others. 
 
